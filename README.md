@@ -1,7 +1,7 @@
 # Crime Volume & Seasonality Analysis
 
 ## 🎯 Business Objective
-To analyze historical crime data in Chicago to identify high-volume incident categories, seasonal trends, and location-based density. This analysis enables stakeholders to allocate resources effectively based on predictable crime patterns.
+To analyze historical crime data to identify high-volume incident categories, seasonal trends, and location-based density. This analysis enables stakeholders to allocate resources effectively based on predictable crime patterns.
 
 ## 🛠️ Tech Stack Used
 * **Data Visualization & Analytics:** Tableau Public / Tableau Desktop
