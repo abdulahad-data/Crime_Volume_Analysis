@@ -9,9 +9,11 @@ To analyze historical crime data to identify high-volume incident categories, se
 * **Techniques:** Parameter-driven Top-N filtering, synchronized dual-axis time-series charts, logical calculated fields (IF/THEN).
 
 ## 📊 Key Findings
-* **[Placeholder 1:]** (e.g., The highest volume of incidents occurred in [Month], driven primarily by [Crime Type].)
-* **[Placeholder 2:]** (e.g., Arrest rates for [Crime Type] diverge significantly from total incident volume during [Season].)
-* **[Placeholder 3:]** (e.g., [Location Type] represents the highest concentration of property crimes.)
+Volume Analysis: Identified THEFT as the highest-volume incident category, comprising 23.6% of total records in the dataset.
+
+Seasonality Trends: Detected a 19.7% increase in overall incident volume during the January peak compared to the July baseline.
+
+Location Density: Isolated STREET locations as the primary hotspot for property crimes, accounting for 13,440 individual incidents.
 
 ## 🔗 Live Dashboard
 Interact with the full Tableau dashboard here: https://public.tableau.com/app/profile/abdul.a7400/viz/Crime_Volume_Seasonality/Dashboard1
